@@ -1166,3 +1166,7 @@ h6 {
   .site-nav a[target="_blank"]:after {
     content: url(https://res.cloudinary.com/htgahrhjj/image/upload/c_scale,w_12/v1590436795/icons8-external-link-24_white_dk5sws.png);
   }
+
+  .site-foot-nav a[target="_blank"]:after {
+    content: url(https://res.cloudinary.com/htgahrhjj/image/upload/c_scale,w_10/v1590436795/icons8-external-link-24_white_dk5sws.png);
+  }
