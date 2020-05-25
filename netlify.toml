@@ -7,3 +7,17 @@
   
 [[plugins]]
   package = "netlify-plugin-gatsby-cache"
+
+[[redirects]]
+  from = "https://emtr0-dev.netlify.app/*"
+  to = "https://emtr0.dev/:splat"
+  status = 301
+  force = false
+  query = {path = ":path"}
+
+[[redirects]]
+  from = "http://emtr0-dev.netlify.app/*"
+  to = "https://emtr0.dev/:splat"
+  status = 301
+  force = false
+  query = {path = ":path"}

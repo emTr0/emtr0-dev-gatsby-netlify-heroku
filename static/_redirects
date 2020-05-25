@@ -3,5 +3,5 @@
 
 https://gatsby-starter-ghost.netlify.com/*      https://gatsby.ghost.org/:splat    301!
 http://gatsby-starter-ghost.netlify.com/*       https://gatsby.ghost.org/:splat    301!
-https://emtr0-dev.netlify.app/*                 https://emtr0.dev/*                301!
-http://emtr0-dev.netlify.app/*                  https://emtr0.dev/*                301!
+https://emtr0-dev.netlify.app/*                 https://emtr0.dev/:splat           301!
+http://emtr0-dev.netlify.app/*                  https://emtr0.dev/:splat           301!
