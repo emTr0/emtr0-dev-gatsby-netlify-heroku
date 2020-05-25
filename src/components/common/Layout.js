@@ -89,11 +89,6 @@ const DefaultLayout = ({ data, children, bodyClass, isHome }) => {
                                 <Navigation data={site.navigation} navClass="site-foot-nav-item" />
                             </div>
                         </div>
-                        <script>
-                            $(document).ready(function() { 
-                                $("a[href^='http']").attr("target","_blank");
-                            });
-                        </script>
                     </footer>
 
                 </div>
