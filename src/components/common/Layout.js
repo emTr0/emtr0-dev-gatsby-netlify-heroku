@@ -9,6 +9,7 @@ import config from '../../utils/siteConfig'
 
 // Styles
 import '../../styles/app.css'
+import 'typeface-orbitron'
 
 /**
 * Main layout component
