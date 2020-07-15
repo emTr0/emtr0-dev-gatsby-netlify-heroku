@@ -42,8 +42,8 @@ const Post = ({ data, location }) => {
                             />
                         </section>
                     </article>
-                </div>
 <div id="wpac-comment"></div>
+                </div>
             </Layout>
         </>
     )
