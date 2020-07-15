@@ -41,6 +41,8 @@ const Post = ({ data, location }) => {
                                 dangerouslySetInnerHTML={{ __html: post.html }}
                             />
                         </section>
+                    </article>
+                </div>
 <div id="wpac-comment"></div>
 <script type="text/javascript">
 wpac_init = window.wpac_init || [];
@@ -56,8 +58,6 @@ wpac_init.push({widget: 'Comment', id: 26245});
 })();
 </script>
 <a href="https://widgetpack.com" class="wpac-cr">Comments System WIDGET PACK</a>
-                    </article>
-                </div>
             </Layout>
         </>
     )
