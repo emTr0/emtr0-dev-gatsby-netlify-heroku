@@ -1,4 +1,8 @@
-# Gatsby Starter Ghost
+# emTr0.dev powered by Gatsby, Netlify, Heroku and this repo!
+
+This is the repo for my website at [emTr0.dev](https://emTr0.dev). To learn about how I set it up, visit my blog post: [How to set up a free JAMstack-based Ghost blog with Heroku, Gatsby, GitHub and Netlify](https://emtr0.dev/how-to-set-up-free-jamstack-ghost-blog-heroku-gatsby-github-netlify/). Everything below is from the original README file for the forked "Gatsy Starter Ghost".
+
+---
 
 A starter template to build lightning fast websites with [Ghost](https://ghost.org) & [Gatsby](https://gatsbyjs.org)
 
