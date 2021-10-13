@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: emtr0.dev
+Token: 910e3c096ca91a382506073eff26c0208c947d09b6c3894dfd9ac6bfd08efd46
